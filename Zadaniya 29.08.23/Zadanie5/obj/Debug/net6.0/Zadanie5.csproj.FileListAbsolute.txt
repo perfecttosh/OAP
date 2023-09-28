@@ -1,0 +1,14 @@
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\bin\Debug\net6.0\Zadanie5.exe
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\bin\Debug\net6.0\Zadanie5.deps.json
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\bin\Debug\net6.0\Zadanie5.runtimeconfig.json
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\bin\Debug\net6.0\Zadanie5.dll
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\bin\Debug\net6.0\Zadanie5.pdb
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\obj\Debug\net6.0\Zadanie5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\obj\Debug\net6.0\Zadanie5.AssemblyInfoInputs.cache
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\obj\Debug\net6.0\Zadanie5.AssemblyInfo.cs
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\obj\Debug\net6.0\Zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\obj\Debug\net6.0\Zadanie5.dll
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\obj\Debug\net6.0\refint\Zadanie5.dll
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\obj\Debug\net6.0\Zadanie5.pdb
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\obj\Debug\net6.0\Zadanie5.genruntimeconfig.cache
+C:\Users\perov\Documents\OAP\Zadaniya\Zadanie5\obj\Debug\net6.0\ref\Zadanie5.dll
